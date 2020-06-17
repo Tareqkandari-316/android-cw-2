@@ -1,0 +1,16 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+         System.out.println("Hello World");
+         
+         int l = 0;
+         
+        {
+    
+        }
+        publi static void l()
+        System.out.print("loop");
+        for (int l = 0 ; l <= 0 ; l++){
+            System.out.println(l);
+            
+     
